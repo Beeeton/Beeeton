@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I program games and stuff</h1>
+<h1 align="center">Hey, I make games and stuff</h1>
 <p align="left">
   
 <h3 align="left">Cool things I can do:</h3>
@@ -7,5 +7,4 @@
 
 <h4 align="left">And also stuff like Render engineering & 3D character animation in Blender</h4>
 
-![](https://github-readme-stats.vercel.app/api?username=Beeeton&theme=default&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Beeeton&theme=default&hide_border=false)<br/>
